@@ -6,3 +6,6 @@ Asp.net
 Python
 Adobe
 Angular
+
+
+All technologies alrady added
